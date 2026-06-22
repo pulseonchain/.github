@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://github.com/jelly-chain">
-    <img src="https://pbs.twimg.com/community_banner_img/2059546354985111552/RE1wKh4o?format=jpg&name=medium" alt="pulse">
-  </p>
 
-
-<p align="center">
-  <a href="https://pulse.jelly-os.xyz/">Website</a> •
-  <a href="https://x.com/i/communities/2033089758583275697">X</a> 
-</p>
 
 A cross-chain bonding curve protocol built on Solana (Anchor framework) that lets any creator launch a token, run it through a constant-product bonding curve, and graduate it to **multiple** DEX launchpads — not just Pump.fun.
 
